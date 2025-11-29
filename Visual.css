@@ -1,0 +1,122 @@
+.navigation a{
+    text-decoration: none;
+    color: rgb(252, 135, 2);
+    font-size: 20px;
+}
+body {background-color: rgb(75, 75, 75);
+background-size: 30%;}
+
+h1 {color: orange;}
+ 
+.navigation {display: flex;
+gap: 20px;
+font-size: 15px;
+justify-content: center;
+}
+
+.images a{ text-decoration: underline;
+color: orange;
+font-size: 20px;
+}
+
+ul {color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navigationarticles a{
+ text-decoration: none;
+    color: rgb(252, 135, 2);
+    font-size: 20px;   
+}
+
+h2 {font-size: 15px;
+text-decoration: overline;
+}
+
+em {font-size: 20px;}
+
+.navigationcontacts
+a{  text-decoration: none;
+    color: rgb(252, 135, 2);
+    font-size: 20px;
+}
+
+.gallerynavigation
+a{text-decoration: none;
+    color: rgb(252, 135, 2);
+    font-size: 20px;
+ }
+
+
+ .indexnavigation a {text-decoration: none;
+    color: rgb(252, 135, 2);
+    font-size: 20px;
+}
+
+.indexnavigation {display: flex;
+gap: 20px;
+font-size: 15px;
+justify-content: center;
+background:gray;
+padding: 5px;
+
+}
+
+.frame {position: absolute;
+top: 80px;
+right: 50px;
+border-radius: 20px;
+}
+
+.images{   
+display: flex ;
+gap: 200px; 
+}
+.contentt {
+    display: flex;
+    gap: 200px;
+}
+
+.AtomicHeart {background-image: url(/atomic-heart-pc-game-steam-cover.jpg);
+background-size: 1920px 1080px ;
+}
+
+.frame {
+    background:rgb(185, 184, 185);
+    padding: 7px;
+    border-radius: 20px;
+    
+}
+.images img{ 
+height: 420px;
+background: rgb(182, 127, 26);
+border-radius: 20px;
+padding: 3px;
+}
+.contentt img {
+height: 420px;
+background: rgb(182, 127, 26);
+border-radius: 20px;
+padding: 3px;
+}
+
+.mainconteiner {margin: 15px auto ;
+padding: 50px ;
+}
+li {font-size:  20px;}
+em {font-size: 50px;}
+
+
+.mainconteiner a {display: flex;
+gap: 20px;
+font-size: 20px;
+justify-content: center;
+background:gray;
+padding: 5px;
+text-decoration: none;
+border-radius: 20px;}
+
+h1 {text-align: center;}
+.strong {text-align: center;}
+
+.pages {text-align: center;}
